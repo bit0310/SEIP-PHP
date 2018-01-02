@@ -11,19 +11,19 @@
 //        echo "</body>";
 //    echo "</hmtl>";
 ?>
-<!---->
-<!--<html>-->
-<!--    <head>-->
-<!--        <title>--><?php //echo "HOME"; ?><!--</title>-->
-<!--    </head>-->
-<!--    <body>-->
-<!--        <h1>--><?php //echo "This is a heading."; ?><!--</h1>-->
-<!--        <p>--><?php //echo "This is a paragraph."; ?><!--</p>-->
-<!---->
-<!--        <input type="text" value="--><?php //echo "Hello World"; ?><!--"/>-->
-<!---->
-<!--    </body>-->
-<!--</html>-->
+
+<html>
+    <head>
+        <title><?php echo "HOME"; ?></title>
+    </head>
+    <body>
+        <h1><?php echo "This is a heading."; ?></h1>
+        <p><?php echo "This is a paragraph."; ?></p>
+
+        <input type="text" value="<?php echo "Hello World"; ?>"/>
+
+    </body>
+</html>
 <?php
 
 
@@ -39,18 +39,18 @@
                 *meaning full
                 *readable
              */
-//        $NAME;
-//        $name;
-//        $NaMe;
-//        $_9name;
-//        $name9;
-//
-////        $number=100;
-//          $firstName = "Rokib";
-//          $lastName = "Hossain";
-//          echo $firstName.' '.$lastName;
+        $NAME;
+        $name;
+        $NaMe;
+        $_9name;
+        $name9;
 
-//            $name = 132;
+//        $number=100;
+          $firstName = "Rokib";
+          $lastName = "Hossain";
+          echo $firstName.' '.$lastName;
+
+            $name = 132;
 
 
     /*
@@ -64,14 +64,14 @@
         *Logical Operator
             &&, ||, !
     */
-//        $x=10;
-//        $y=20;
-//        echo $x.=$y;  // $x= $x.$y
-//        echo ++$x;
-//        echo '<br/>';
-//        echo $x--;
-//        echo '<br/>';
-//        echo --$x;
+        $x=10;
+        $y=20;
+        echo $x.=$y;  // $x= $x.$y
+        echo ++$x;
+        echo '<br/>';
+        echo $x--;
+        echo '<br/>';
+        echo --$x;
 
     //Statement
         /*
@@ -88,14 +88,14 @@
                 *FOREACH
         */
 
-//        $x=100;
-//        $y=20;
-//        if($x>$y) {
-//            $z= $x+$y;
-//            echo $z;
-//        } else {
-//
-//        }
+        $x=100;
+        $y=20;
+        if($x>$y) {
+            $z= $x+$y;
+            echo $z;
+        } else {
+
+        }
 
 
         function demo() {
